@@ -1,6 +1,6 @@
 ## Hi, I'm Erik!
 
-### [My resume](/ErikL_CV_2026.pdf)
+### [My resume (click me!)](/ErikL_CV_2026.pdf)
 
 ### My expertise
 
