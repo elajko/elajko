@@ -9,10 +9,10 @@
 - Databases and data processing (SQL and its flavours)
 - Full-stack web development (REST APIs, graphic design, PHP, Node.js, etc)
 - Version control and cooperation (Git/Github, verbal and written communication, etc)
+- Working with AI assistants like Claude Code to dramatically improve my productivity
 
 ### What I'm learning
 
-- How to improve my workflow with AI assistants like Copilot
 - Professional design philosophies used in the real world
 
 ### Where to find me
@@ -20,7 +20,4 @@
 Email &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; lajko.erik@gmail.com
 
 LinkedIn &nbsp; [Erik Lajko</a>](https://www.linkedin.com/in/erik-lajko-20032b349/)
-
-> [!NOTE]
-> This profile is a little sparse because, until only recently, I've been developing all my projects on my personal Github account. I'm currently working on migrating my flagship projects here, as well as starting new ones, in order to best demonstate my technical experience.
 
